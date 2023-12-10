@@ -1,4 +1,6 @@
 # Finalpj-group56
+brh231@pitt.edu, haz77@pitt.edu
+
 
 DATASET WE USED:
 POPULATION: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3
